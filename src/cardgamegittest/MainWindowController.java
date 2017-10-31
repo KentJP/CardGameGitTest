@@ -25,8 +25,8 @@ public class MainWindowController implements Initializable
     @FXML
     private void handleButtonAction(ActionEvent event)
     {
-        System.out.println("You clicked me!");
-        label.setText("Hello World!");
+        System.out.println("I SAID GOOD DAY");
+        label.setText("Gå nu væk");
     }
     
     @Override
